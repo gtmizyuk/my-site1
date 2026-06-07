@@ -1,3 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url>
+        <loc>https://gtmizyuk.github.io/my-site1/</loc>
+      </url>
+      <url>
+        <loc>https://gtmizyuk.github.io/my-site1/markdown/</loc>
+      </url>
+      <url>
+        <loc>https://gtmizyuk.github.io/my-site1/6/if/</loc>
+      </url>
+      <url>
+        <loc>https://gtmizyuk.github.io/my-site1/6/while/</loc>
+      </url>
+      <url>
+        <loc>https://gtmizyuk.github.io/my-site1/about/about/</loc>
+      </url>
 </urlset>
